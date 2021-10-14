@@ -1,0 +1,38 @@
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\Content\Idle1.xnb
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\Jump Test.exe
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\Jump Test.deps.json
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\Jump Test.runtimeconfig.json
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\Jump Test.runtimeconfig.dev.json
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\Jump Test.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\Jump Test.pdb
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\MonoGame.Framework.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\SharpDX.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\SharpDX.Direct2D1.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\SharpDX.Direct3D11.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\SharpDX.Direct3D9.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\SharpDX.DXGI.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\SharpDX.Mathematics.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\SharpDX.MediaFoundation.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\SharpDX.XAudio2.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\SharpDX.XInput.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\obj\Debug\netcoreapp3.1\Jump Test.csproj.AssemblyReference.cache
+C:\Users\samra_waefnk9\source\repos\Jump Test\obj\Debug\netcoreapp3.1\Jump Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samra_waefnk9\source\repos\Jump Test\obj\Debug\netcoreapp3.1\Jump Test.AssemblyInfoInputs.cache
+C:\Users\samra_waefnk9\source\repos\Jump Test\obj\Debug\netcoreapp3.1\Jump Test.AssemblyInfo.cs
+C:\Users\samra_waefnk9\source\repos\Jump Test\obj\Debug\netcoreapp3.1\Jump Test.csproj.CoreCompileInputs.cache
+C:\Users\samra_waefnk9\source\repos\Jump Test\obj\Debug\netcoreapp3.1\Jump Test.csproj.CopyComplete
+C:\Users\samra_waefnk9\source\repos\Jump Test\obj\Debug\netcoreapp3.1\Jump Test.dll
+C:\Users\samra_waefnk9\source\repos\Jump Test\obj\Debug\netcoreapp3.1\Jump Test.pdb
+C:\Users\samra_waefnk9\source\repos\Jump Test\obj\Debug\netcoreapp3.1\Jump Test.genruntimeconfig.cache
